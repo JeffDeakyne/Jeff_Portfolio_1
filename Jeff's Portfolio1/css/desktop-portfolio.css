@@ -1,0 +1,870 @@
+/* screen - desktop-portfolio */
+
+.animate-enter {
+  animation: animate-enter-frames 0.10s ease-in-out 0.10s 1 normal forwards;
+  display: block;
+opacity: 0;
+}
+.animate-enter1 {
+  animation: animate-enter1-frames 0.10s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;
+}
+.animate-enter2 {
+  animation: animate-enter2-frames 0.10s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;
+}
+.animate-enter3 {
+  animation: animate-enter3-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.desktop-portfolio {
+  background-color: rgba(52,52,52,1.0);
+  height: 100vh;
+  margin: 0px;
+  min-height: 4313px;
+  min-width: 1440px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.desktop-portfolio .a-redesign-experience-gUEd1c {
+  background-color: transparent;
+  height: 27.00%;
+  left: 15.42%;
+  letter-spacing: 0.00px;
+  line-height: 16.4px;
+  position: absolute;
+  text-align: left;
+  top: 43.46%;
+  width: 45.95%;
+}
+.desktop-portfolio .a-redesign-the-nation-WzCX2w {
+  background-color: transparent;
+  height: 34.45%;
+  left: calc(50.00% - 194px);
+  letter-spacing: 0.00px;
+  line-height: 16.4px;
+  position: absolute;
+  text-align: left;
+  top: 37.84%;
+  width: 258px;
+}
+.desktop-portfolio .arrow-1-9p2GBv {
+  background-color: transparent;
+  height: 57.55%;
+  left: 44.19%;
+  position: absolute;
+  top: -0.47%;
+  width: 9.30%;
+}
+.desktop-portfolio .back-to-top-9p2GBv {
+  background-color: transparent;
+  color: var(--mercury);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 35.85%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 64.15%;
+  width: 100%;
+}
+.desktop-portfolio .bandcamp-icon-0-C61RwL {
+  background-color: transparent;
+  height: 198px;
+  left: 622px;
+  pointer-events: auto;
+  position: absolute;
+  top: 3217px;
+  transition: all 0.2s ease;
+  width: 196px;
+}
+.desktop-portfolio .bandcamp-icon-0-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.desktop-portfolio .black-girl-t-redesign-WzCX2w {
+  background-color: transparent;
+  color: var(--black-2);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 17.1px;
+  font-style: normal;
+  font-weight: 500;
+  height: 9.44%;
+  left: 7.31%;
+  letter-spacing: 0.00px;
+  line-height: 28.2px;
+  position: absolute;
+  text-align: left;
+  top: 24.47%;
+  white-space: nowrap;
+  width: 56.15%;
+}
+.desktop-portfolio .c5-c82040--280-d6-f-1-C61RwL {
+  background-color: transparent;
+  height: 289px;
+  left: 575px;
+  position: absolute;
+  top: 2413px;
+  width: 289px;
+}
+.desktop-portfolio .check-out--r-bandcamp-C61RwL {
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 596px;
+  letter-spacing: 0.00px;
+  line-height: 21.1px;
+  position: absolute;
+  text-align: center;
+  top: 3180px;
+  width: 250px;
+}
+.desktop-portfolio .component-1-C61RwL {
+  background-color: transparent;
+  height: 53px;
+  left: 678px;
+  position: absolute;
+  top: 4125px;
+  width: 86px;
+}
+.desktop-portfolio .component-2-C61RwL {
+  background-color: transparent;
+  height: 233px;
+  left: 439px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1693px;
+  transition: all 0.2s ease;
+  width: 561px;
+}
+.desktop-portfolio .component-2-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.desktop-portfolio .component-3-C61RwL {
+  background-color: transparent;
+  display: block;
+  height: 188px;
+  left: 215px;
+  position: absolute;
+  top: 140px;
+  width: 152px;
+opacity: 0;transform: translate(0, 25px);
+}
+.desktop-portfolio .component-4-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 701px;
+  position: absolute;
+  top: 3990px;
+  width: 58px;
+}
+.desktop-portfolio .connect-hvAGCq {
+  background-color: transparent;
+  height: 100%;
+  left: 61.69%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 16.39%;
+}
+.desktop-portfolio .connect-hvAGCq:hover {
+
+transform: scale(1.1);
+}
+.desktop-portfolio .contact-me-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 609px;
+  letter-spacing: 0.00px;
+  line-height: 47.9px;
+  position: absolute;
+  text-align: left;
+  top: 3876px;
+  white-space: nowrap;
+  width: 225px;
+}
+.desktop-portfolio .created-by-ff-deakyne-C61RwL {
+  background-color: transparent;
+  color: rgba(255,255,255,1.0);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 1168px;
+  letter-spacing: 0.00px;
+  line-height: 21.1px;
+  position: absolute;
+  text-align: left;
+  top: 4258px;
+  white-space: nowrap;
+  width: 234px;
+}
+.desktop-portfolio .ellipse-11-zmv7IO {
+  background-color: transparent;
+  height: 38.92%;
+  left: 24.05%;
+  position: absolute;
+  top: 6.95%;
+  width: 62.83%;
+}
+.desktop-portfolio .ellipse-12-zmv7IO {
+  background-color: transparent;
+  height: 38.65%;
+  left: 23.91%;
+  position: absolute;
+  top: 32.33%;
+  width: 62.50%;
+}
+.desktop-portfolio .ellipse-13-zmv7IO {
+  background-color: transparent;
+  height: 29.32%;
+  left: 11.79%;
+  position: absolute;
+  top: 56.07%;
+  width: 50.99%;
+}
+.desktop-portfolio .ellipse-14-zmv7IO {
+  background-color: transparent;
+  height: 29.32%;
+  left: 43.07%;
+  position: absolute;
+  top: 58.37%;
+  width: 50.66%;
+}
+.desktop-portfolio .ellipse-15-zmv7IO {
+  background-color: transparent;
+  height: 17.86%;
+  left: 53.65%;
+  position: absolute;
+  top: 82.93%;
+  width: 36.51%;
+}
+.desktop-portfolio .ellipse-16-zmv7IO {
+  background-color: transparent;
+  height: 10.93%;
+  left: 70.19%;
+  position: absolute;
+  top: 89.73%;
+  width: 27.96%;
+}
+.desktop-portfolio .ellipse-5-zmv7IO {
+  background-color: transparent;
+  height: 38.92%;
+  left: -10.26%;
+  position: absolute;
+  top: 28.97%;
+  width: 62.50%;
+}
+.desktop-portfolio .frame-1-C61RwL {
+  background-color: var(--turquoise-blue);
+  border-radius: 9.508475303649902px;
+  box-shadow: 0px 3.80338978767395px 6.6559319496154785px rgba(0,0,0,0.25);;
+  height: 233px;
+  left: 439px;
+  pointer-events: auto;
+  position: absolute;
+  top: 991px;
+  transition: all 0.2s ease;
+  width: 561px;
+}
+.desktop-portfolio .frame-1-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.desktop-portfolio .frame-2-C61RwL {
+  background-color: rgba(255,197,110,1.0);
+  border-radius: 9.508475303649902px;
+  box-shadow: 0px 3.80338978767395px 6.6559319496154785px rgba(0,0,0,0.25);;
+  height: 233px;
+  left: 439px;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 1342px;
+  transition: all 0.2s ease;
+  width: 561px;
+}
+.desktop-portfolio .frame-2-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.desktop-portfolio .frame-3-esxmfg {
+  background-color: rgba(255,217,242,1.0);
+  border-radius: 11.488665580749512px;
+  box-shadow: 0px 4.595466136932373px 8.042065620422363px rgba(0,0,0,0.25);;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+.desktop-portfolio .frame-3-esxmfg:hover {
+
+transform: scale(1.1);
+}
+.desktop-portfolio .frame-5-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/screen-shot-2021-01-04-at-3-16-1@2x.jpg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 275px;
+  left: 475px;
+  overflow: hidden;
+  position: absolute;
+  top: 2798px;
+  width: 491px;
+}
+.desktop-portfolio .group-3-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 1056px;
+  position: fixed;
+  top: 103px;
+  width: 415px;
+}
+.desktop-portfolio .helped-cre-usic-taste-OViL2x {
+  background-color: transparent;
+  height: 33.33%;
+  left: 15.42%;
+  letter-spacing: 0.00px;
+  line-height: 16.4px;
+  position: absolute;
+  text-align: left;
+  top: 36.71%;
+  width: 45.95%;
+}
+.desktop-portfolio .hi-im-jeff-deakyne-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 419px;
+  letter-spacing: 0.00px;
+  line-height: 74.5px;
+  position: absolute;
+  text-align: left;
+  top: 288px;
+  white-space: nowrap;
+  width: 568px;
+opacity: 0;
+}
+.desktop-portfolio .i-am-a-ux---bootstrap-C61RwL {
+  background-color: transparent;
+  color: transparent;
+  display: block;
+  font-family: "Poppins", Helvetica, Arial, serif;
+  font-size: 18px;
+  height: auto;
+  left: 418px;
+  position: absolute;
+  text-align: left;
+  top: 500px;
+  width: 640px;
+opacity: 0;
+}
+.desktop-portfolio .i-design-f-e-learning-C61RwL {
+  background-color: transparent;
+  color: transparent;
+  display: block;
+  font-family: "Poppins", Helvetica, Arial, serif;
+  font-size: 45px;
+  height: auto;
+  left: 418px;
+  letter-spacing: 0.00px;
+  line-height: 54.0px;
+  position: absolute;
+  text-align: left;
+  top: 368px;
+  width: 657px;
+opacity: 0;
+}
+.desktop-portfolio .i-pad-pro--ups-studio-esxmfg {
+  background-color: transparent;
+  height: 100.02%;
+  left: 63.73%;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 36.27%;
+}
+.desktop-portfolio .i-phone-xs-ups-studio-WzCX2w {
+  background-color: transparent;
+  height: 98.95%;
+  left: 62.35%;
+  object-fit: cover;
+  position: absolute;
+  top: 1.16%;
+  width: 36.81%;
+}
+.desktop-portfolio .img3768-1-C61RwL {
+  background-color: transparent;
+  height: 259px;
+  left: 659px;
+  object-fit: cover;
+  position: absolute;
+  top: 3601px;
+  width: 123px;
+}
+.desktop-portfolio .just-to-co-ortunities-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 515px;
+  letter-spacing: 0.00px;
+  line-height: 21.1px;
+  position: absolute;
+  text-align: left;
+  top: 3927px;
+  width: 412px;
+}
+.desktop-portfolio .line-1-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 605px;
+  position: absolute;
+  top: 938px;
+  width: 231px;
+}
+.desktop-portfolio .line-2-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 614px;
+  position: absolute;
+  top: 2157px;
+  width: 211px;
+}
+.desktop-portfolio .macbook-pr-ups-studio-gUEd1c {
+  background-color: transparent;
+  height: 100.02%;
+  left: 63.69%;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 60.34%;
+}
+.desktop-portfolio .medium-logo-C61RwL {
+  background-color: transparent;
+  height: 27px;
+  left: 811px;
+  overflow: hidden;
+  position: absolute;
+  top: 3999px;
+  width: 175px;
+}
+.desktop-portfolio .music-is-a-erspective-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 389px;
+  letter-spacing: 0.00px;
+  line-height: 21.1px;
+  position: absolute;
+  text-align: left;
+  top: 2201px;
+  width: 690px;
+}
+.desktop-portfolio .path-2520-C61RwL {
+  background-color: transparent;
+  height: 1.34%;
+  left: 31.53%;
+  pointer-events: auto;
+  position: absolute;
+  top: 92.37%;
+  transition: all 0.2s ease;
+  width: 4.03%;
+}
+.desktop-portfolio .path-2520-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.desktop-portfolio .path-2525-C61RwL {
+  background-color: transparent;
+  height: 0px;
+  left: 35.90%;
+  position: absolute;
+  top: 93.57%;
+  width: 0.24%;
+}
+.desktop-portfolio .path-2526-C61RwL {
+  background-color: transparent;
+  height: 0px;
+  left: 35.72%;
+  position: absolute;
+  top: 93.53%;
+  width: 0.59%;
+}
+.desktop-portfolio .play-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 668px;
+  letter-spacing: 0.00px;
+  line-height: 59.8px;
+  position: absolute;
+  text-align: left;
+  top: 2086px;
+  white-space: nowrap;
+  width: 106px;
+}
+.desktop-portfolio .play-hvAGCq {
+  background-color: transparent;
+  height: 100%;
+  left: 46.27%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 9.88%;
+}
+.desktop-portfolio .play-hvAGCq:hover {
+
+transform: scale(1.1);
+}
+.desktop-portfolio .rectangle-11-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 307px;
+  position: absolute;
+  top: 1661px;
+  width: 1px;
+}
+.desktop-portfolio .resume-hvAGCq {
+  background-color: transparent;
+  height: 100%;
+  left: 7.71%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 16.39%;
+}
+.desktop-portfolio .resume-hvAGCq:hover {
+
+transform: scale(1.1);
+}
+.desktop-portfolio .ringo-dating-app-OViL2x {
+  background-color: transparent;
+  color: var(--black-2);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 17.2px;
+  font-style: normal;
+  font-weight: 500;
+  height: 9.70%;
+  left: 15.42%;
+  letter-spacing: 0.00px;
+  line-height: 28.4px;
+  position: absolute;
+  text-align: left;
+  top: 22.36%;
+  white-space: nowrap;
+  width: 33.58%;
+}
+.desktop-portfolio .span1-t4LrjZ {
+  color: rgba(255,255,255,0.87);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.desktop-portfolio .span1-zlBLxu {
+  color: rgba(255,255,255,0.87);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  line-height: 21.1px;
+}
+.desktop-portfolio .span2-t4LrjZ {
+  color: rgba(35,228,255,0.85);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.desktop-portfolio .span2-zlBLxu {
+  color: rgba(38,202,225,1.0);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+  line-height: 21.1px;
+}
+.desktop-portfolio .span3-t4LrjZ {
+  color: rgba(255,255,255,0.87);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.desktop-portfolio .span3-zlBLxu {
+  color: rgba(255,217,242,1.0);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  line-height: 27.0px;
+}
+.desktop-portfolio .span4-t4LrjZ {
+  color: rgba(255,226,183,1.0);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.desktop-portfolio .span4-zlBLxu {
+  color: rgba(255,255,255,0.87);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  line-height: 21.1px;
+}
+.desktop-portfolio .span5-t4LrjZ {
+  color: rgba(255,255,255,0.87);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.desktop-portfolio .span6-t4LrjZ {
+  color: rgba(255,217,242,1.0);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.desktop-portfolio .span7-t4LrjZ {
+  color: rgba(255,255,255,0.87);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.desktop-portfolio .this-is-my-wave-decay-C61RwL {
+  background-color: transparent;
+  color: var(--mercury);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 592px;
+  letter-spacing: 0.00px;
+  line-height: 21.1px;
+  position: absolute;
+  text-align: left;
+  top: 2360px;
+  width: 283px;
+}
+.desktop-portfolio .us-departm-y-redesign-gUEd1c {
+  background-color: transparent;
+  color: var(--black-2);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 17.1px;
+  font-style: normal;
+  font-weight: 500;
+  height: 9.93%;
+  left: 5.32%;
+  letter-spacing: 0.00px;
+  line-height: 28.2px;
+  position: absolute;
+  text-align: center;
+  top: 29.78%;
+  white-space: nowrap;
+  width: 56.03%;
+}
+.desktop-portfolio .vector-C61RwL {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 39px;
+  width: 1441px;
+}
+.desktop-portfolio .vector-Eq8hHx {
+  background-color: transparent;
+  height: 98.76%;
+  left: 0px;
+  position: absolute;
+  top: 1.15%;
+  width: 15.14%;
+}
+.desktop-portfolio .vector-N8N989 {
+  background-color: transparent;
+  height: 56.79%;
+  left: -5.29%;
+  position: absolute;
+  top: 5.98%;
+  width: 110.57%;
+}
+.desktop-portfolio .vector-VMr6Om {
+  background-color: transparent;
+  height: 1.39%;
+  left: 40.28%;
+  pointer-events: auto;
+  position: absolute;
+  top: 92.33%;
+  transition: all 0.2s ease;
+  width: 4.17%;
+}
+.desktop-portfolio .vector-VMr6Om:hover {
+
+transform: scale(1.1);
+}
+.desktop-portfolio .vector-W3JdrR {
+  background-color: transparent;
+  height: 93.17%;
+  left: 15.70%;
+  position: absolute;
+  top: 3.94%;
+  width: 7.71%;
+}
+.desktop-portfolio .vector-p4wM3n {
+  background-color: transparent;
+  height: 113.57%;
+  left: -5.29%;
+  pointer-events: auto;
+  position: absolute;
+  top: -6.79%;
+  transition: all 0.2s ease;
+  width: 110.57%;
+}
+.desktop-portfolio .vector-p4wM3n:hover {
+
+transform: scale(1.1);
+}
+.desktop-portfolio .vector-uxvrJT {
+  background-color: transparent;
+  height: 83.85%;
+  left: 23.91%;
+  position: absolute;
+  top: 8.60%;
+  width: 2.86%;
+}
+.desktop-portfolio .vector-vV0ta8 {
+  background-color: transparent;
+  height: 98.76%;
+  left: 30.50%;
+  position: absolute;
+  top: 0.23%;
+  width: 69.43%;
+}
+.desktop-portfolio .work-C61RwL {
+  background-color: transparent;
+  color: var(--mercury);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 300;
+  height: 58px;
+  left: 660px;
+  letter-spacing: 0.00px;
+  line-height: 59.8px;
+  position: absolute;
+  text-align: left;
+  top: 858px;
+  white-space: nowrap;
+  width: 123px;
+}
+.desktop-portfolio .work-hvAGCq {
+  background-color: transparent;
+  height: 100%;
+  left: 29.64%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 11.08%;
+}
+.desktop-portfolio .work-hvAGCq:hover {
+
+transform: scale(1.1);
+}
+.poppins-normal-black-14px {
+  color: var(--black);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.poppins-normal-turquoise-blue-14px {
+  color: var(--turquoise-blue);
+  font-family: 'Poppins', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,0.71);
+  --black-2: rgba(0,0,0,0.85);
+  --mercury: rgba(229,229,229,1.0);
+  --turquoise-blue: rgba(61,220,255,1.0);
+  --white: rgba(255,255,255,0.87);
+}
+@keyframes animate-enter-frames {
+
+from{opacity: 0;}
+to{opacity: 1;}
+}
+@keyframes animate-enter1-frames {
+
+from{opacity: 0;}
+to{opacity: 1;}
+}
+@keyframes animate-enter2-frames {
+
+from{opacity: 0;}
+to{opacity: 1;}
+}
+@keyframes animate-enter3-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
